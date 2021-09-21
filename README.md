@@ -1,2 +1,2 @@
 # CRUD
-crud using django
+crud using django model form
